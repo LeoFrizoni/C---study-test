@@ -1,0 +1,17 @@
+C:\Dio_fullstack\ExemploExplorando\bin\Debug\net9.0\ExemploExplorando.exe
+C:\Dio_fullstack\ExemploExplorando\bin\Debug\net9.0\ExemploExplorando.deps.json
+C:\Dio_fullstack\ExemploExplorando\bin\Debug\net9.0\ExemploExplorando.runtimeconfig.json
+C:\Dio_fullstack\ExemploExplorando\bin\Debug\net9.0\ExemploExplorando.dll
+C:\Dio_fullstack\ExemploExplorando\bin\Debug\net9.0\ExemploExplorando.pdb
+C:\Dio_fullstack\ExemploExplorando\obj\Debug\net9.0\ExemploExplorando.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dio_fullstack\ExemploExplorando\obj\Debug\net9.0\ExemploExplorando.AssemblyInfoInputs.cache
+C:\Dio_fullstack\ExemploExplorando\obj\Debug\net9.0\ExemploExplorando.AssemblyInfo.cs
+C:\Dio_fullstack\ExemploExplorando\obj\Debug\net9.0\ExemploExplorando.csproj.CoreCompileInputs.cache
+C:\Dio_fullstack\ExemploExplorando\obj\Debug\net9.0\ExemploExplorando.dll
+C:\Dio_fullstack\ExemploExplorando\obj\Debug\net9.0\refint\ExemploExplorando.dll
+C:\Dio_fullstack\ExemploExplorando\obj\Debug\net9.0\ExemploExplorando.pdb
+C:\Dio_fullstack\ExemploExplorando\obj\Debug\net9.0\ExemploExplorando.genruntimeconfig.cache
+C:\Dio_fullstack\ExemploExplorando\obj\Debug\net9.0\ref\ExemploExplorando.dll
+c:\Dio_fullstack\ExemploExplorando\bin\Debug\net9.0\Newtonsoft.Json.dll
+c:\Dio_fullstack\ExemploExplorando\obj\Debug\net9.0\ExemploExplorando.csproj.AssemblyReference.cache
+c:\Dio_fullstack\ExemploExplorando\obj\Debug\net9.0\ExemploE.B7F01285.Up2Date
